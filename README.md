@@ -10,6 +10,6 @@ Adds a **"Copy Transcript"** button directly into the YouTube transcript sidebar
 4. Click **This Firefox** in the navigation menu, then click **Load Temporary Add-on...**
 5. Open the extension's folder and select the one of the files.
 
-Now, when you open any YouTube video, expand the description box, click **"Show transcript"**, and use the copy button.
+Now, when you open any YouTube video, expand the description box, click **Show transcript** and use the copy button to copy the transcript to your clipboard.
 
 Temporary extensions are automatically removed by Firefox when you close the browser. You need to reload it in `about:debugging` next time you open Firefox.
